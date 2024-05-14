@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSwarmOptimization", "ParticleSwarmOptimization.csproj", "{47EC1C11-4420-40AE-AC0B-DCCC2F1243C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EC1C11-4420-40AE-AC0B-DCCC2F1243C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EC1C11-4420-40AE-AC0B-DCCC2F1243C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EC1C11-4420-40AE-AC0B-DCCC2F1243C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EC1C11-4420-40AE-AC0B-DCCC2F1243C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33E44D2F-6C59-440E-91BE-472141F4C885}
+	EndGlobalSection
+EndGlobal
