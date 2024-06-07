@@ -6,3 +6,4 @@
 /ParticleSwarmOptimization/ParticleSwarmOptimization/.vs/ParticleSwarmOptimization
 /ParticleSwarmOptimization/ParticleSwarmOptimization/bin/Debug/net8.0
 /ParticleSwarmOptimization/ParticleSwarmOptimization/obj
+*.bin
