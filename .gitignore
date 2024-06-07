@@ -10,3 +10,4 @@
 *.vsidx
 /CancellationTokenDemo/.vs
 /CancellationTokenDemo/CancellationTokenDemo/obj
+/CancellationTokenDemo/CancellationTokenDemo/bin
